@@ -5,3 +5,4 @@ Why can`t I commit anything?
 Fine, I will update my browser.
 What`s wrong now?
 # Oh, I got it.
+It works just fine.
