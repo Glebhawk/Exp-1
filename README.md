@@ -6,3 +6,4 @@ Fine, I will update my browser.
 What`s wrong now?
 # Oh, I got it.
 It works just fine.
+Light the candles, start the machines, we are beginning new work!
